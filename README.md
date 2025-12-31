@@ -128,5 +128,4 @@ All outputs and intermediate data files are reproducible
 ## Author
 
 Aditi Veer
-Data Science | Web3 Analytics
 Savitribai Phule Pune University
