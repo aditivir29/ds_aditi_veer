@@ -3,7 +3,7 @@
 
 Analyze how trader behavior on Hyperliquid (profitability, returns, trade direction) aligns or diverges from Bitcoin market sentiment (Fear vs Greed), and identify patterns that can inform smarter trading strategies in a Web3 environment.
 
-## Repository Structure
+## **Repository Structure**
 
 This repository strictly follows the required standardized format:
 
