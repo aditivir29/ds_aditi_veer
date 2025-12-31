@@ -5,8 +5,7 @@ Analyze how trader behavior on Hyperliquid (profitability, returns, trade direct
 
 ## **Repository Structure**
 
-This repository strictly follows the required standardized format:
-
+```
 ds_aditi_veer/
 ├── notebook_1.ipynb
 ├── csv_files/
@@ -20,6 +19,7 @@ ds_aditi_veer/
 │   └── pnl_heatmap_sentiment_direction.png
 ├── ds_report.pdf
 └── README.md
+```
 
 ## Google Colab Notebook
 
